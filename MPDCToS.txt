@@ -1,0 +1,49 @@
+Terms of Service (ToS)
+
+Effective Date: 14 February 2026
+Bot Name: MPDC
+Owner: SaZiemniaczki
+
+1. Acceptance of Terms
+
+By inviting or using MPDC (“the Bot”) on a server hosted on Discord, you agree to these Terms of Service.
+If you do not agree with these Terms, do not use the Bot.
+
+2. Description of Service
+
+MPDC is a Discord bot that:
+Connects to voice channels,
+Plays audio files hosted locally on the machine running the bot,
+Responds to slash commands.
+The Bot does not provide streaming from external services.
+
+3. Eligibility
+
+You must comply with Discord’s Terms of Service and Community Guidelines when using this Bot.
+
+4. Proper Use
+
+You agree not to:
+
+Use the Bot for unlawful purposes,
+
+Attempt to reverse engineer, exploit, or overload the Bot,
+Use the Bot to distribute harmful or illegal audio content.
+The Bot owner reserves the right to restrict or block access at any time.
+
+5. Availability
+
+The Bot is provided “as is” without guarantees of uptime or reliability.
+The owner may modify, suspend, or discontinue the Bot at any time without notice.
+
+6. Limitation of Liability
+
+The Bot owner is not responsible for:
+
+Any damage caused by misuse of the Bot,
+Service interruptions,
+Content played by server administrators.
+
+7. Changes to Terms
+
+These Terms may be updated at any time. Continued use of the Bot constitutes acceptance of the updated Terms.
