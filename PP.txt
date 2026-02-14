@@ -1,0 +1,50 @@
+Privacy Policy
+
+Effective Date: 14 February 2026
+Bot Name: MPDC
+Owner: SaZiemniaczki
+
+1. Data Collection
+
+MPDC collects only the minimum data necessary to function properly.
+The Bot may process:
+
+Server ID,
+Channel ID,
+User ID (only when commands are used),
+Voice channel state (temporary, session-based),
+
+The Bot does NOT:
+
+Store message content,
+Store voice audio,
+Log conversations,
+Collect personal data beyond Discord IDs,
+
+2. Data Storage
+
+MPDC does not store user data in databases.
+All data is processed in memory and discarded after use.
+
+3. Data Sharing
+
+No data is sold, shared, or transferred to third parties.
+
+4. Data Security
+
+The Bot runs on a private host controlled by the owner.
+Access to the hosting environment is restricted.
+
+5. Third-Party Services
+
+MPDC operates exclusively within Discord infrastructure and is subject to Discord’s Privacy Policy.
+
+6. User Rights
+
+Since no personal data is stored persistently, there is no retained data to access or delete.
+If you have concerns, you may remove the Bot from your server at any time.
+
+7. Contact
+
+For questions regarding this Privacy Policy, contact:
+MPDC.dev@yahoo.com
